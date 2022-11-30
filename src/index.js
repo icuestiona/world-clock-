@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const locations = document.querySelectorAll("section.times div");
 
 const updateTimes = function () {
